@@ -11,7 +11,7 @@ I love working on innovative projects and always look forward to collaborating o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,flask,react,nodejs,nextjs,mongodb,mysql,html,css,js,tensorflow,pytorch,azure" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,react,nodejs,nextjs,mongodb,mysql,html,css,js,tensorflow,pytorch,azure" />
   </a>
 </p>
 
